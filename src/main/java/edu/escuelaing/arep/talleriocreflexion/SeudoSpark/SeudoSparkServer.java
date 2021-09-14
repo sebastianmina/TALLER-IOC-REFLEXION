@@ -1,4 +1,4 @@
-package edu.escuelaing.arep.app.SeudoSpark;
+package edu.escuelaing.arep.talleriocreflexion.SeudoSpark;
 
 //import java.io.File;
 import java.io.IOException;
@@ -7,10 +7,11 @@ import java.util.Map;
 import java.util.function.BiFunction;
 //import java.util.function.Supplier;
 
-import edu.escuelaing.arep.app.HttpServer;
-import edu.escuelaing.arep.app.Processor;
 import org.eclipse.jetty.client.HttpRequest;
 import org.eclipse.jetty.client.HttpResponse;
+
+import edu.escuelaing.arep.talleriocreflexion.HttpServer;
+import edu.escuelaing.arep.talleriocreflexion.Processor;
 
 public class SeudoSparkServer implements Processor {
     private int httpPort;

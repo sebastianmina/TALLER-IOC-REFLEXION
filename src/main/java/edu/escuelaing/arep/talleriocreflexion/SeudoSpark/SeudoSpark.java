@@ -1,4 +1,4 @@
-package edu.escuelaing.arep.app.SeudoSpark;
+package edu.escuelaing.arep.talleriocreflexion.SeudoSpark;
 
 import java.io.File;
 import java.util.function.BiFunction;

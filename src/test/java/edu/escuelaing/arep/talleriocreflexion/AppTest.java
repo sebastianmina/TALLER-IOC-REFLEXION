@@ -1,4 +1,4 @@
-package edu.escuelaing.arep.app;
+package edu.escuelaing.arep.talleriocreflexion;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

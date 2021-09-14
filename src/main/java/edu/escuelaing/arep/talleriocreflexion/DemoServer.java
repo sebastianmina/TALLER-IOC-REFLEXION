@@ -1,6 +1,6 @@
-package edu.escuelaing.arep.app;
+package edu.escuelaing.arep.talleriocreflexion;
 
-import static edu.escuelaing.arep.app.SeudoSpark.SeudoSpark.*;
+import static edu.escuelaing.arep.talleriocreflexion.SeudoSpark.SeudoSpark.*;
 
 import java.io.BufferedReader;
 import java.io.File;
