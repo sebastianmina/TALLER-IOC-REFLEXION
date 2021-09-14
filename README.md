@@ -20,13 +20,13 @@
 https://taller-ioc-reflexion.herokuapp.com/
 
 - Para abrir ver una imagen: https://taller-ioc-reflexion.herokuapp.com/img
-![](src/main/resources/public/img.png)
+![](src/main/resources/public/img/img.png)
 
 - Para abrir un código js: https://taller-ioc-reflexion.herokuapp.com/js
-![](src/main/resources/public/js.png)
+![](src/main/resources/public/img/js.png)
 
 - Para abrir un código css: https://taller-ioc-reflexion.herokuapp.com/css
-![](src/main/resources/public/css.png)
+![](src/main/resources/public/img/css.png)
 
 
 ## Autor 
