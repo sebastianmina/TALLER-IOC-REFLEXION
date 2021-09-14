@@ -16,6 +16,19 @@
 * [GIT](https://git-scm.com/): Sistema de control de versiones que almacena cambios sobre un archivo o un conjunto de archivos, permite recuperar versiones previas de esos archivos y permite otras cosas como el manejo de ramas (branches).
 * [Java](https://www.oracle.com/java/): Lenguaje de programación de propósito general, es decir, que sirve para muchas cosas, para web, servidores, aplicaciones móviles, entre otros. Java también es un lenguaje orientado a objetos, y con un fuerte tipado de variables.
 
+## Desplegado en Heroku
+https://taller-ioc-reflexion.herokuapp.com/
+
+- Para abrir ver una imagen: https://taller-ioc-reflexion.herokuapp.com/img
+![](src/main/resources/public/img.png)
+
+- Para abrir un código js: https://taller-ioc-reflexion.herokuapp.com/js
+![](src/main/resources/public/js.png)
+
+- Para abrir un código css: https://taller-ioc-reflexion.herokuapp.com/css
+![](src/main/resources/public/css.png)
+
+
 ## Autor 
 
 [Sebastián Mina](https://github.com/sebastianmina)
