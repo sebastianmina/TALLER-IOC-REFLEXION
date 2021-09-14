@@ -23,5 +23,5 @@
 ## Licencia & Derechos de Autor
 **©** Sebastián Mina, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
 
-Licencia bajo la [GNU General Public License](https://github.com/sebastianmina/AREP-TALLER-CLIENTES-Y-SERVICIOS/blob/main/LICENSE.txt).
+Licencia bajo la [GNU General Public License](https://github.com/sebastianmina/TALLER-IOC-REFLEXION/blob/main/LICENSE.txt).
 
